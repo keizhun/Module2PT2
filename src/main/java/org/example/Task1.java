@@ -14,7 +14,7 @@ public class Task1 {
         double result;
 
         result = num1 + num2;
-        System.out.println("Addition: " + result);
+        System.out.println("\nAddition: " + result);
 
         result = num1 - num2;
         System.out.println("Subtraction: " + result);
