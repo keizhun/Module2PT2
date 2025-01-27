@@ -24,6 +24,8 @@ public class Task1 {
 
         result = (double) num1 / num2;
         System.out.println("Division: " + result);
+
+        scanner.close();
     }
 }
 
